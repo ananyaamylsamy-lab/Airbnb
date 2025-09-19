@@ -6,6 +6,10 @@ A web application that displays Airbnb listings from San Francisco with interact
 - Responsive design using Bootstrap
 - Loads data from JSON file
 
+## Additional Feature
+- Favourite button: Has an option to add favourites 
+- Uses a heart on the right of each listing
+
 ## Live
 https://ananyaamylsamy-lab.github.io/Airbnb/
 
